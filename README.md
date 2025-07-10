@@ -24,8 +24,7 @@ Using a **Markov Chain**, the next word is predicted based on the previous one o
 
 ## 📦 Contents
 
-- `Markov_chains.ipynb`: Full implementation in Python  
-- `Sample_Text.txt`: Custom training data (Shakespeare’s *Hamlet*)  
+- `mct2.ipynb - Colab.html`: Full implementation in Python  
 - `README.md`: This documentation
 
 ---
